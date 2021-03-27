@@ -1,0 +1,23 @@
+---
+title: Newborn blog
+author: Alex Bajaña
+date: '2021-03-26'
+slug: newborn-blog
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-03-26T22:47:15-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+summary(mtcars)
+```
+
