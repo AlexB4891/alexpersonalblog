@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-Hello everyone, Alex here. In the last two years I've been trying to publish a personal blog, where I can upload and share the things I do and think unisg open source tools. For one reason or another, I have postponed that task until today.
+Hello everyone, Alex here. In the last two years I've been trying to publish a personal blog, where I can upload and share the things I do and think using open source tools. For one reason or another, I have postponed that task until today.
 
 ![wake](https://cdn3.whatculture.com/images/2017/04/a939825e66db6e6f-600x338.png)
 
