@@ -17,7 +17,24 @@ image:
 projects: []
 ---
 
-Since it's founding in july 2017, Uber has reached 
+# Uber in ecuadorian context
 
-  ## Use of phenomenology package to determine the changes in prices and quantities of a uber travel when a driver could just work 12 hours
+Since it's arrival to Ecuador, around 88.000 drivers from 8 cities had subscribed to Uber. Due to the pandemics, 150.000 new users had downloaded the app. Since then, Uber had added new services like food and packages delivery[^1].
 
+[^1]: <https://radiohuancavilca.com.ec/uber-suma-servicios-en-ecuador-para-ampliar-su-base-de-usuarios/>
+
+Opinions about the platform are divided. From one side taxi drivers suggests that their demand has contracted. In the other hand, users had found an alternative that fulfill their needs for a security and prices that follows the current state of traffic and demand. But evidence goes further, and points that technology advances leads to sharp certain frictions in the market of taxi services.
+
+# Uber and market frictions
+
+> Main article: [The impact of new entry in regulated transport markets: evidence from New York City taxis](https://microeconomicinsights.org/the-impact-of-new-entry-in-regulated-transport-markets-evidence-from-new-york-city-taxis/)
+
+The study developed by [Guillaume Frechette (New York University)](http://as.nyu.edu/content/nyu-as/as/faculty/guillaume-frechette.html), [Alessandro Lizzeri (New York University)](https://www.stern.nyu.edu/faculty/bio/alessandro-lizzeri), [Tobias Salz (MIT)](https://economics.mit.edu/faculty/tsalz) suggest that before Uber arrived, the entry barriers were binding, meaning that they have effect over quantities supplied and demanded for this services, fixing the first one to a limited number of medallions that a driver should carry to drive in the city. Furthermore, patterns in demand according to the hour a day, changes the overall cost in terms of time and money for both, passengers and drivers.
+
+A key feature of this study is the emphasis in the **matching process** between taxis and driver as the way the equilibrium in this market is reached. In contrast with the standard supply and demand balance process, where the consumption is immediate, here the consumption depend on the disposition of the passenger to wait, and the time that the driver spend on searching when it´s not occupied.
+
+Looking for **how many drivers** in a certain hour and place, the authors have developed a micro-funded model for matching frictions like the one described. This kind of models rise from the necessity to explain those difficulties on trade that lead to delay the benefits of it. Adding features like, geographical distances between passengers and drivers, the times both spending waiting and searching and traffic state, the model developed returns the number of passengers that demand the service and the waiting time they face before the ride begin.
+
+The results of the model described has corroborates the key feature of the study: **demand elasticity is responsive to wait times.**
+
+made in New York had determined that the presence of Uber does not affect the income of the drivers directly. First, you have to know that taxis companies own a certain number of tokens that allows to the drivers to work in the city. However it leads to diminishing the power of the \#\# Use of phenomenology package to determine the changes in prices and quantities of a uber travel when a driver could just work 12 hours
